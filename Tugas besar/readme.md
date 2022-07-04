@@ -51,7 +51,7 @@
 - Ahmad -> Develop Web
 - Aisya -> Documentation (Google Document) dan Desain Wireframe and Mockup
 - Rasyid -> Documentation (Google Document) dan Desain Wireframe and Mockup
-- Kiya -> Documentation (Google Document) dan Desain Wireframe and Mockup
+- Kia -> Documentation (Google Document) dan Desain Wireframe and Mockup
 
 ## Credit
 
